@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(216, 229, 242);
+    padding: 12px;
+}
+
+
+.contain{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 610px;
+    margin: auto;
+    border-radius: 18px;
+   
+    
+}
+
+img{
+    
+    object-fit: contain;
+    width: 360px;
+    height: 360px;
+    margin-top: 12px;
+    border-radius: 12px;
+    
+}
+.main{
+   text-align: center;
+    
+}
+h3{
+    font-family: Arial;
+    font-size: 26px;
+    
+}
+p{
+    font-size: 21px;
+    text-align: center;
+    width: 340px;
+    padding-left: 30px;
+    color: rgb(97, 97, 97);
+
+}
